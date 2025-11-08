@@ -1,5 +1,5 @@
 # Portefeuille-efficient-CML
-Analyse d'un portefeuille à deux actifs — Programme interactif
+Portefeuille à deux actifs — Programme interactif
 =================================================================
 
 Ce projet permet d'analyser un portefeuille composé de deux actifs financiers
