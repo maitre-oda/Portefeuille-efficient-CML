@@ -39,12 +39,4 @@ Le script produit :
 - CML (Capital Market Line)
 - Fichiers CSV des séries téléchargées
 
-4) Fichiers produits automatiquement
-------------------------------------
-- prices_two_assets.csv
-- log_returns.csv
-
-5) Auteur
----------
-Programme réalisé pour analyse académique.
 
